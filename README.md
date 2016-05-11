@@ -1,4 +1,4 @@
-# Aqua
+# Xbnb
 
 A website and user system starter. Implemented with Hapi, React and Flux.
 
